@@ -1,0 +1,12 @@
+{
+  "name": "4354463031",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:calvinxiao/4354463031.git",
+  "author": "calvinxiao <calvin325@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "koa": "^2.13.4"
+  }
+}
