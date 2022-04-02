@@ -6,7 +6,7 @@
   "author": "calvinxiao <calvin325@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^0.26.1",
     "koa": "^2.13.4"
   }
 }
