@@ -46,5 +46,5 @@ func main() {
 		}
 		c.Data(http.StatusOK, "text/plain", []byte(flag2))
 	})
-	r.Run(":80")
+	r.Run(":8080")
 }
